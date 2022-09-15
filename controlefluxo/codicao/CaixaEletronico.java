@@ -1,4 +1,4 @@
-package controlefluxo;
+package controlefluxo.codicao;
 
 public class CaixaEletronico {
 
